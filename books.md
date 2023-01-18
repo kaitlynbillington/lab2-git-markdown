@@ -14,4 +14,4 @@ regular text
 git commit -m"update"
 ```
 
-![cheer in cold](images/108A2461)
+![cheer in cold](images/for_info.JPG)
